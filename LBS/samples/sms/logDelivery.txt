@@ -1,0 +1,10 @@
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:9477712345, timeStamp=1802211238, requestId=1519196901206, deliveryStatus=Undeliverable ]
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:94777123654, timeStamp=1802211238, requestId=1519196920797, deliveryStatus=Delivered ]
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:94777123654, timeStamp=1802211238, requestId=1519196920797, deliveryStatus=Delivered ]
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:94777123659, timeStamp=1802211238, requestId=1519196920797, deliveryStatus=Delivered ]
+Sms delivery report received from SDP : 
+[ destinationAddress=tel:94777123654, timeStamp=1802211238, requestId=1519196920797, deliveryStatus=Delivered ]

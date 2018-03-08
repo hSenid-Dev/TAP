@@ -1,0 +1,16 @@
+[30-Jan-2018 06:31:30 UTC] PHP Notice:  Undefined index: sessionid in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 16
+[30-Jan-2018 06:31:30 UTC] PHP Notice:  Undefined variable: con in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 18
+[30-Jan-2018 06:31:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 18
+[30-Jan-2018 06:31:53 UTC] PHP Warning:  mysql_query(): No such file or directory in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 24
+[30-Jan-2018 06:31:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 24
+[30-Jan-2018 06:31:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 25
+[30-Jan-2018 06:31:53 UTC] PHP Warning:  mysql_query(): No such file or directory in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 38
+[30-Jan-2018 06:31:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 38
+[30-Jan-2018 06:32:09 UTC] PHP Notice:  Undefined index: sessionid in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 16
+[30-Jan-2018 06:32:09 UTC] PHP Notice:  Undefined variable: con in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 18
+[30-Jan-2018 06:32:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 18
+[30-Jan-2018 06:32:17 UTC] PHP Warning:  mysql_query(): No such file or directory in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 24
+[30-Jan-2018 06:32:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 24
+[30-Jan-2018 06:32:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 25
+[30-Jan-2018 06:32:17 UTC] PHP Warning:  mysql_query(): No such file or directory in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 38
+[30-Jan-2018 06:32:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /media/apps/devSupport/devSupportApps/PHPSampleApplications/samples/ussd/class/operationsClass.php on line 38

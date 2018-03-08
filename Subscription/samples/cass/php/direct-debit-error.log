@@ -1,0 +1,12 @@
+[20-Feb-2018 08:07:32 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[20-Feb-2018 08:07:32 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\PHPSampleApplications\samples\cass\php\DirectDebitHandler.php on line 42
+[20-Feb-2018 08:10:07 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[20-Feb-2018 08:10:07 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\PHPSampleApplications\samples\cass\php\DirectDebitHandler.php on line 42
+[20-Feb-2018 09:38:04 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[20-Feb-2018 09:38:04 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\PHPSampleApplications\samples\cass\php\DirectDebitHandler.php on line 42
+[20-Feb-2018 09:42:46 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[20-Feb-2018 09:42:46 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\PHPSampleApplications\samples\cass\php\DirectDebitHandler.php on line 42
+[20-Feb-2018 12:37:13 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[20-Feb-2018 12:37:13 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\PHPSampleApplications\samples\cass\php\DirectDebitHandler.php on line 42
+[20-Feb-2018 12:37:32 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[20-Feb-2018 12:37:32 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\PHPSampleApplications\samples\cass\php\DirectDebitHandler.php on line 42

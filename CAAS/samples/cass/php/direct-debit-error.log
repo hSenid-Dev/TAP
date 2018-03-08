@@ -1,0 +1,11 @@
+[21-Feb-2018 11:48:07 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[21-Feb-2018 11:48:07 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 42
+[21-Feb-2018 11:50:31 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[21-Feb-2018 11:50:31 Europe/Berlin] PHP Notice:  Undefined variable: jsonResponse in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 42
+[21-Feb-2018 11:51:15 Europe/Berlin] CASS direct-debit ERROR: 500 | Server URL is invalid
+[21-Feb-2018 11:51:15 Europe/Berlin] PHP Notice:  Undefined variable: statusCode in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 79
+[21-Feb-2018 11:51:15 Europe/Berlin] PHP Notice:  Undefined variable: timeStamp in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 80
+[21-Feb-2018 11:51:15 Europe/Berlin] PHP Notice:  Undefined variable: shortDescription in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 81
+[21-Feb-2018 11:51:15 Europe/Berlin] PHP Notice:  Undefined variable: statusDetail in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 82
+[21-Feb-2018 11:51:15 Europe/Berlin] PHP Notice:  Undefined variable: longDescription in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 84
+[21-Feb-2018 11:51:15 Europe/Berlin] PHP Notice:  Undefined variable: internalTrxId in E:\xampp\htdocs\CAAS\samples\cass\php\DirectDebitHandler.php on line 85
